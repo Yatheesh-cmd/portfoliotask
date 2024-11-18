@@ -24,7 +24,7 @@ html{
 .y{color:rgb(27, 93, 30);}
 .container{
      background: linear-gradient(to left, red,yellow);
-;    height:380px;
+   height:380px;
     width:480px;
     margin-top:31px;
     padding:32px;
@@ -36,7 +36,8 @@ html{
     box-shadow: 0 30px 30px rgba(0, 0, 0, 0.2);
 }
 
-.lumi,.imgme{box-shadow:0 2px 3px rgb(71, 69, 69); margin-top:20px;}
+.imgme{box-shadow:0 2px 3px rgb(71, 69, 69); margin-top:20px;}
+.lumi{box-shadow:0 12px 8px rgb(71, 69, 69); margin-top:20px;}
 h4:hover{color:rgb(224, 222, 222);}
 h1,h4,a{margin-bottom: 5px;}
 img{border-radius: 50%; margin-top:5px; }
